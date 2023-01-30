@@ -1,2 +1,2 @@
 # odin_recipes
-Simple HTML website for recipes!
+Simple HTML website for cartoon recipes!
